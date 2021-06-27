@@ -1,0 +1,1 @@
+Due to lack of security check, attackers are able to modify users' password.

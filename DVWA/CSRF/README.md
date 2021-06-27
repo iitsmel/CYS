@@ -1,0 +1,1 @@
+Clone a login web and ask people to type in their user name and password.

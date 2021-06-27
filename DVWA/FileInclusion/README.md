@@ -1,0 +1,1 @@
+Attackers will be able to use the URL link to find the root file location( if the target is not using Linux).
