@@ -1,0 +1,1 @@
+Reflected XSS only execute on the victim side. Can not see the hacker's info.

@@ -1,0 +1,1 @@
+Very poor session id, for example "dvwaSession".

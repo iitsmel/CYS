@@ -1,0 +1,2 @@
+A session ID is a unique number that a website's server assigns a specific user for the duration of that user's visit( session ). <br>
+The session ID can be stored as cookie, from field, or URL. Some web servers generate session IDs.

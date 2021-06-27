@@ -1,0 +1,1 @@
+The hacker malicious code is stored in the targeted website and the web serve.
