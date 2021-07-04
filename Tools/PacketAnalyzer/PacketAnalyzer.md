@@ -1,6 +1,6 @@
 # Packet Analyzer
 ### **Definition**
-Capture the traffic passes over certain network.
+Capture the traffic passes over a certain network.
 
 <br>
 
