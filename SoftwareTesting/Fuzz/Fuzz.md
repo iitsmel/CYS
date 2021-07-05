@@ -44,6 +44,7 @@ Inject random or invalid data into the software to find implementation bugs.
 [American Fuzzy Lop plus plus (afl++)](https://aflplus.plus)<br>
 
 [Honggfuzz](https://honggfuzz.dev/)
+- [Fuzzing C/C++ program (binutils/readelf) using Honggfuzz](https://www.youtube.com/watch?v=4WKwdkD2EXQ)
 
 <br>
 
@@ -53,4 +54,11 @@ Inject random or invalid data into the software to find implementation bugs.
 [A Survey of Methods for Explaining Black Box Models](https://www.researchgate.net/publication/322976218_A_Survey_of_Methods_for_Explaining_Black_Box_Models)<br>
 
 [Software testing: A survey and tutorial on white and black-box testing of C/C++ programs](https://www.researchgate.net/publication/305649292_Software_testing_A_survey_and_tutorial_on_white_and_black-box_testing_of_CC_programs)
+
+<br>
+
+### **Vedios**
+[White Box Testing Example - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=KIAkoae6_jE)
+
+[Black Box Testing Example - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=6pbB37nFUZw)
 
