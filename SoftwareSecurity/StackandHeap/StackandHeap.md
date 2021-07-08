@@ -17,6 +17,8 @@
 [CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html)
 - [cvedetails](https://www.cvedetails.com/cwe-details/121/Stack-based-Buffer-Overflow.html)
 
+[Ripple20, jsof-tech](https://www.jsof-tech.com/disclosures/ripple20/)
+
 [GHOST (heap-based buffer overflow)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0235)
 
 [sudo (heap-based buffer overflow)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3156)
