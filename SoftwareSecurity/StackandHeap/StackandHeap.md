@@ -1,4 +1,4 @@
-# Stack and Heap
+# Stack and Heap + Stack Buffer Overflow + Heap Buffer Overflow
 ### **Definition**
 [Stack Explained In Under 2 Minutes](https://www.youtube.com/watch?v=CgFVgp_VCN8)
 
@@ -14,7 +14,12 @@
 <br>
 
 ### **Examples**
+[CWE-121: Stack-based Buffer Overflow](https://cwe.mitre.org/data/definitions/121.html)
+- [cvedetails](https://www.cvedetails.com/cwe-details/121/Stack-based-Buffer-Overflow.html)
+
 [GHOST (heap-based buffer overflow)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0235)
+
+[sudo (heap-based buffer overflow)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3156)
 
 <br>
 
