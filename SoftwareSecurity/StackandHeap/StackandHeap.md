@@ -29,3 +29,6 @@
 [HeapHopper: Bringing Bounded Model Checking to Heap Implementation Security](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-eckert.pdf)
 
 [Automatic Techniques to Systematically Discover New Heap Exploitation Primitives](https://www.usenix.org/system/files/sec20fall_yun_prepub.pdf)
+
+
+[Defeating Memory Corruption Attacks via Pointer Taintedness Detection](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DSN_05_Pointer_Taintedness.pdf)
