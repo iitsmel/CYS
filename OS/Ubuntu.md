@@ -40,3 +40,17 @@ Start<br>
 
 Done :)
 
+## Disk Space
+Type in the listed commands in terminal.<br>
+
+```
+cd /
+
+sudo du -sh ./*
+```
+
+or<br>
+
+```
+df -h
+```
