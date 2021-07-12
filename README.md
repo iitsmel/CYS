@@ -12,6 +12,8 @@ Steps of solving DVWA tasks.
 ### [GitHub](https://github.com/iitsmel/CYS/tree/main/GitHub)
 Cyber security related projects on GitHub.
 
+<br>
+
 ### [OS (Operating System)](https://github.com/iitsmel/CYS/tree/main/OS)
 Different kinds of operating systems.
 
