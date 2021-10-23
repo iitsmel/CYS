@@ -24,6 +24,9 @@ Softwares provide kinds of services.
         - A security scanning tool.
     - [Nmap](https://nmap.org)
         - A network discovery and security auditing tool. [details--Introduction](https://nmap.org)
+    - [sqlmap](https://sqlmap.org)
+        - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+        - As a beginner, I learn from [Beginner's Guide to sqlmap - Full Course](https://www.youtube.com/watch?v=nVj8MUKkzQk&list=PL23mME9Pa0zUhWWG4oOSeRi3atuQZguDr&index=5). 
 
 <br>
 
